@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shivkalayan17
-- 👀 I’m interested in cyber security
+- 👀 I’m interested in Computers
 - 🌱 I’m currently learning js
 
 <!---
