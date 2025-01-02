@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @shivkalayan17
-- 👀 I’m interested in Computers
-- 🌱 I’m currently learning js
+- 👀 I’m interested in Computer Science
 
 <!---
 shivkalayan17/shivkalayan17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
